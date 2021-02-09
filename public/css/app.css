@@ -1,0 +1,17 @@
+.nav-item .active {
+    border-bottom: 1px solid black !important;
+}
+
+.bg-custom {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+body {
+    background-image: url("../images/background.jpg") !important;
+    background-size: cover;
+}
+
+.clickable-row:hover {
+    background-color: rgb(190, 190, 190);
+    cursor: pointer;
+}
